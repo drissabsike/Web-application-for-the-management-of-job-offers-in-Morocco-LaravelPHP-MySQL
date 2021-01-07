@@ -1,2 +1,8 @@
-# OffresMaroc
-concevoir et réaliser une application web capable de permettre à ses utilisateurs d’avoir les offres emplois dans les sociétés marocain. La mission consistait à analyser les besoins du client, ensuite de concevoir et développer une application web internet répondant à ces critères et enfin, de former les responsables pour les futures mises à jour du l’application.
+#Web application for the management of job offers in Morocco
+
+design and build a web application capable of allowing its users to have job offers in Moroccan companies. The mission was to analyze the client's needs, then to design and develop an internet web application meeting these criteria and finally, to train managers for future updates of the application.
+
+Database: MySQL (UML).
+Code Editor: Sublime Text 3.
+Languages: HTML, CSS, JavaScript, PHP.
+Framework: LARAVEL, Bootstrap.
