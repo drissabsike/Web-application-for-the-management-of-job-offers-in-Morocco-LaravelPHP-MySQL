@@ -1,4 +1,4 @@
-*.php linguist-detectable=true  
+*.PHP linguist-detectable=true  
 *.js linguist-detectable=true  
 *.html linguist-detectable=true  
-*.xml linguist-detectable=true 
+*.css linguist-detectable=true 
